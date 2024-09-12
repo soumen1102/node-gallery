@@ -15,7 +15,7 @@
   "dependencies": {
     "ejs": "3.1.7",
     "exif": "git://github.com/cianclarke/node-exif.git",
-    "express": "4.17.3",
+    "express": "4.21.0",
     "gm": "^1.17.0",
     "imagemagick-stream": "^1.1.0",
     "memory-cache": "^0.1.1",
